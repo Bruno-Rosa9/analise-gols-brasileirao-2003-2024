@@ -28,7 +28,5 @@ Esse comportamento pode estar relacionado ao período da pandemia, quando muitas
 ---
 
 ## 📈 Dashboard
-<img width="1008" height="274" alt="image" src="https://github.com/user-attachments/assets/539cb06c-5427-4486-8c0f-bfc6dda9f4ab" />
-<img width="1059" height="435" alt="image" src="https://github.com/user-attachments/assets/ef034b34-6d07-4c06-a424-3280e4f82aff" />
-
+![dashboard futebol](https://github.com/user-attachments/assets/dfd3f8b1-4661-4c3f-b4e1-5604c1e49107)
 
